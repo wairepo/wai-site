@@ -38,7 +38,7 @@
     </div>
   </section><!-- End wai -->
 
-  <main id="main">
+  <main id="main" style="display: none;">
 
     <!-- ======= About Section ======= -->
     <section id="about" class="about">
