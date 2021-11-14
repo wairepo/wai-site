@@ -50,7 +50,7 @@
 
         <div class="section-title">
           <h2>About</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>Hi, a few lines of introduction of myself here. My name is Kok Wai, a Software Engineer from Kuala Lumpur, Malaysia. Currectly was based in Singapore with PR status. I got my degree from Tunku Abdul Rahman University College with course of Information Technology. </p>
         </div>
 
         <div class="row">
@@ -60,8 +60,7 @@
           <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
             <h3>Software Engineer || Web Developer</h3>
             <p class="fst-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
+              My personal details that highlighted as below: 
             </p>
             <div class="row">
               <div class="col-lg-6">
@@ -82,8 +81,7 @@
               </div>
             </div>
             <p>
-              Officiis eligendi itaque labore et dolorum mollitia officiis optio vero. Quisquam sunt adipisci omnis et ut. Nulla accusantium dolor incidunt officia tempore. Et eius omnis.
-              Cupiditate ut dicta maxime officiis quidem quia. Sed et consectetur qui quia repellendus itaque neque. Aliquid amet quidem ut quaerat cupiditate. Ab et eum qui repellendus omnis culpa magni laudantium dolores.
+              A professional coder with more than five years web development experience with PHP, MySQL, JavaScript, HTML5, jQuery, vueJS. Strong problem solver and with perfect sense of responsibility, initiative and commitment to perform very well in a team. Always with 'Can' attitude whenever difficulty comes ahead.
             </p>
           </div>
         </div>
@@ -265,7 +263,7 @@
               <h4>Tam Kok Wai</h4>
               <p><em>I enjoy being challenged and engaging with projects that require me to work outside my comfort and knowledge set, as continuing to learn new languages and development techniques are important to me and the success of your organization.</em></p>
               <ul>
-                <li>Singapore</li>
+                <!-- <li>Singapore</li> -->
                 <li>(+65) 85239196</li>
                 <li>kwai8891@gmail.com</li>
               </ul>
@@ -290,12 +288,18 @@
               <h5>October 2019 - Present</h5>
               <p><em>CRAFT DIGITAL PTE LTD – MILLENIA TOWER , SINGAPORE</em></p>
               <ul>
-                <li>Assigned to handle several project (wallet and credit flow management, affiliate program, game management and integration)</li>
-                <li>To build numbers of APIs with micro services pattern infrastructure.</li>
-                <li>To create cron to keep data up to date accordingly by timing.</li>
-                <li>To build UI/UX for both admin panel and frontend from wireframe prepared.</li>
-                <li>To debug an existing function and ensure every flow is working properly.</li>
-                <li>To deal with clients and vendors if any issue occurs or any system flow is not clear or any enhancement needed.</li>
+                <li>Develop website for clients with excellent performance</li>
+                <li>Develop proof of concepts and technical designs to explore quality improvement</li>
+                <li>Develop, record and maintain cutting edge web-based PHP applications</li>
+                <li>Work cross-functionally to convert business needs into technical specifications</li>
+                <li>Ensure HTML, CSS, and shared JavaScript is valid and consistent across applications</li>
+                <li>Integrate with 3rd party APIs (REST / SOAP)</li>
+                <li>Build efficient, testable and reusable codes</li>
+                <li>Troubleshoot, test and maintain the core product software and databases to ensure strong optimization and functionality</li>
+                <li>Manage software development, enhancement, debugging, testing and QA maintenance of the backend application</li>
+                <li>Provide technical solutions for product features and reliability features</li>
+                <li>Provide solid and reliable documentation on completed work items such as code, concepts and logic</li>
+                <li>Contribute in all phases of the development lifecycle</li>
               </ul>
             </div>
             <div class="resume-item">
