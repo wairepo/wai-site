@@ -108,4 +108,21 @@ class VoucherController extends Controller
     {
         return filter_var($is_image, FILTER_VALIDATE_BOOLEAN);
     }
+
+    public function generateVoucher()
+    {
+        $arr = [];
+
+        for ($i=0; $i < 1000; $i++) { 
+            $bytes = random_bytes(20);
+            $params = [
+                "code" => $i . bin2hex($bytes)
+            ];
+            array_push($arr, $params);
+        }
+
+        $create = campaignVoucher::insert($arr);
+
+        return response()->json([ "success" => true, "message" => $create ]);
+    }
 }

@@ -20,3 +20,5 @@ Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
 
 Route::get('check', 'VoucherController@customerEligibleChecks');
 Route::put('validate', 'VoucherController@validateSubmissions');
+
+Route::get('generate', 'VoucherController@generateVoucher');
